@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://futbolpirlotv.me/sitemap.xml
+Sitemap: https://pirlotvlive.me/sitemap.xml
