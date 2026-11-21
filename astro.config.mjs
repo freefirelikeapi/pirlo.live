@@ -1,7 +1,7 @@
 import { defineConfig } from 'astro/config';
 
 export default defineConfig({
-  site: 'https://futballpirlotv.me',
+  site: 'https://pirlo.live',
   compressHTML: false,
   build: { format: 'preserve' },
 });
